@@ -5,9 +5,10 @@ Claude Code skills based on *5-Minute Mental Reset* by Thomas Bright.
 ## Installation
 
 In Claude Code:
-
-`/plugin marketplace add thomas0927/5-Minute-Mental-Reset`
-`/plugin install 5-minute-mental-reset`
+```
+/plugin marketplace add thomas0927/5-Minute-Mental-Reset
+/plugin install 5-minute-mental-reset
+```
 
 That's it — Claude Code will fetch the repo and register all skills automatically.
 <details>
