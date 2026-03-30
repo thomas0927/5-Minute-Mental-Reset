@@ -1,0 +1,11 @@
+{
+  "name": "5-minute-mental-reset",
+  "description": "Claude skills based on 5-Minute Mental Reset by Thomas Bright. Fast anxiety reset protocols and scenario playbooks.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Thomas Bright"
+  },
+  "repository": "https://github.com/thomas0927/5-Minute-Mental-Reset",
+  "license": "MIT",
+  "skills": "./skills"
+}

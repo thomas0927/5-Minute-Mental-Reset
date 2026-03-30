@@ -1,0 +1,16 @@
+{
+  "name": "5-minute-mental-reset",
+  "owner": {
+    "name": "Thomas Bright"
+  },
+  "metadata": {
+    "description": "Claude Code skills based on 5-Minute Mental Reset by Thomas Bright. Fast anxiety reset protocols and scenario playbooks."
+  },
+  "plugins": [
+    {
+      "name": "5-minute-mental-reset",
+      "source": "./",
+      "description": "5-minute anxiety reset protocols derived from the book."
+    }
+  ]
+}
