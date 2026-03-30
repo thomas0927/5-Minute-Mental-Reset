@@ -58,11 +58,11 @@ Help Others, Help Yourself | `/help-others-help-yourself` | Reinforce progress b
 
 The skills follow the book's progression:
 
-Reframe — Anxiety is a signal, not a defect
-Understand — Why methods fail under stress
-Reset — Five-minute tools that work in real time
-Rescue — Scenario playbooks for high-pressure moments
-Immunity — Prevention, automation, and teaching
+1. Reframe — Anxiety is a signal, not a defect
+2. Understand — Why methods fail under stress
+3. Reset — Five-minute tools that work in real time
+4. Rescue — Scenario playbooks for high-pressure moments
+5. Immunity — Prevention, automation, and teaching
 
 ## License
 
