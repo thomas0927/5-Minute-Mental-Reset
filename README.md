@@ -22,7 +22,7 @@ Then in Claude Code:
 ```
 /plugin marketplace add ~/.claude/plugins/skills
 /plugin install 5-minute-mental-reset`
-
+```
 
 </details>
 
