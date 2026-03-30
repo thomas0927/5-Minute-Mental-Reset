@@ -10,13 +10,22 @@ In Claude Code:
 `/plugin install 5-minute-mental-reset`
 
 That's it — Claude Code will fetch the repo and register all skills automatically.
+<details>
+<summary>Alternative: install from a local clone</summary>
 
-Alternative: install from a local clone
+```bash
+git clone https://github.com/thomas0927/5-Minute-Mental-Reset ~/.claude/plugins/skills
+```
 
-1. `git clone https://github.com/thomas0927/5-Minute-Mental-Reset`
-2. `cd 5-Minute-Mental-Reset`
-3. `/plugin marketplace add /absolute/path/to/5-Minute-Mental-Reset`
-4. `/plugin install 5-minute-mental-reset`
+Then in Claude Code:
+
+```
+/plugin marketplace add ~/.claude/plugins/skills
+/plugin install 5-minute-mental-reset`
+
+
+</details>
+
 
 ## Skills
 
